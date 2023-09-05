@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%;
+  font-family: "Open Sans", sans-serif;
+  font-style: bold;
+  background-color: #272a2e;
+}
+.header {
+  padding: 5rem;
+  text-align: center;
+  background-color: #0a0d14;
+  color: white;
+}
+nav li a:hover {
+  background-color: #407bff;
+  border-radius: 30px;
+}
+li {
+  padding-left: 2.5rem;
+}
+.header h1 {
+  margin-top: 2.5rem;
+}
+#Card {
+  color: white;
+  margin: 2.5rem 5rem 2.5rem 5rem;
+  border: 1px;
+  height: auto;
+  background-color: #407bff;
+}
+#Card h3 {
+  padding: 2.5rem;
+}
+#Card p {
+  font-size: 16px;
+  padding-left: 2.5rem;
+}
